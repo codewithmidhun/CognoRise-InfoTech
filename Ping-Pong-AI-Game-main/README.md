@@ -14,7 +14,7 @@ A simple and classic Ping-Pong game implemented in HTML5 Canvas and JavaScript.
 
 ## Demo
 
-[Add a link to the live demo of your game, if available]
+[link to the live demo](https://codewithmidhun.github.io/Ping-Pong-AI-Game.github.io/)
 
 ## Features
 
